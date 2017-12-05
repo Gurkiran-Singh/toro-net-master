@@ -1,0 +1,4 @@
+openConnection: connect: No such file or directory
+cannot connect to brltty at :0
+upstart: update-notifier-crash (/var/crash/_usr_bin_add-apt-repository.0.crash) main process (17588) terminated with status 1
+upstart: update-notifier-crash (/var/crash/_usr_lib_rtkit_rtkit-daemon.0.crash) main process (21024) terminated with status 1

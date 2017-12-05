@@ -1,0 +1,12 @@
+logrotate state -- version 2
+"/home/gurkiran/.cache/upstart/unity7.log" 2017-12-4-22:0:0
+"/home/gurkiran/.cache/upstart/unity-settings-daemon.log" 2017-12-4-22:0:0
+"/home/gurkiran/.cache/upstart/unity-panel-service.log" 2017-12-4-22:0:0
+"/home/gurkiran/.cache/upstart/dbus.log" 2017-12-4-22:0:0
+"/home/gurkiran/.cache/upstart/ssh-agent.log" 2017-12-4-22:0:0
+"/home/gurkiran/.cache/upstart/gpg-agent.log" 2017-12-4-22:0:0
+"/home/gurkiran/.cache/upstart/indicator-sound.log" 2017-12-4-22:0:0
+"/home/gurkiran/.cache/upstart/window-stack-bridge.log" 2017-12-4-22:0:0
+"/home/gurkiran/.cache/upstart/gnome-keyring.log" 2017-12-4-22:0:0
+"/home/gurkiran/.cache/upstart/upstart-event-bridge.log" 2017-12-4-22:0:0
+"/home/gurkiran/.cache/upstart/gnome-keyring-ssh.log" 2017-12-4-22:0:0

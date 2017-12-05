@@ -1,0 +1,2 @@
+gpg-agent stop/pre-start, process 1124
+gpgconf: warning: can not open config file /home/gurkiran/.gnupg/gpg-agent.conf: No such file or directory
